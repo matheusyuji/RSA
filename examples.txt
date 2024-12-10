@@ -1,0 +1,19 @@
+Exemplo 1
+( n = 3233 ) (produto de ( p = 53 ) e ( q = 61 ))
+( e = 17 )
+
+Exemplo 2
+( n = 2773 ) (produto de ( p = 47 ) e ( q = 59 ))
+( e = 3 )
+
+Exemplo 3
+( n = 5183 ) (produto de ( p = 71 ) e ( q = 73 ))
+( e = 13 )
+
+Exemplo 4
+( n = 7397 ) (produto de ( p = 13 ) e ( q = 569 ))
+( e = 7 )
+
+Exemplo 5
+( n = 9797 ) (produto de ( p = 97 ) e ( q = 101 ))
+( e = 19 )
